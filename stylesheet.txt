@@ -33,17 +33,19 @@ body {
 		right: -5px;
 	}
 	.modal-login .btn {
-		background: #3498db;
+		background: #347cdb;
 		border: none;
 		line-height: normal;
 	}
 	.modal-login .btn:hover, .modal-login .btn:focus {
-		background: #248bd0;
+		background: #052236;
 	}
 	.modal-login .hint-text a {
-		color: #999;
+		color: rgb(153, 153, 153);
 	}
 	.trigger-btn {
+		font-size: 26px;
 		display: inline-block;
-		margin: 100px auto;
+		margin: 250px auto;
+		background: #e0f3ff;
 	}
